@@ -2,12 +2,16 @@
 
 Nutrient Sync is an iOS Shortcut I made to get around the privacy concerns and subscription based focus of most calorie tracking apps. This utilizes your iCloud Drive to store data and iOS Health to sync the data.
 
+## Current Version
+
+Version 0.1.1
+
 ## Install
 
 In order to utilize Nutrient Sync, you must add these to Shortcuts to your library:
 
-- [Nutrient Sync](https://www.icloud.com/shortcuts/7f671f03e6c54b40964b850e4fb5e07f) (To run Nutrient Sync)
-- [libNutrientSync](https://www.icloud.com/shortcuts/91e0c5b77b05416da35bb558b2562f1d) (A library of functions that Nutrient Sync is dependent on.)
+- [Nutrient Sync](https://www.icloud.com/shortcuts/e2f753701227484da5fe288a529dbaa8) (To run Nutrient Sync)
+- [libNutrientSync](https://www.icloud.com/shortcuts/f57f4d28fb7544989bd443a041bdc943) (A library of functions that Nutrient Sync is dependent on.)
 
 On the first run, it will create a file in _/iCloud Drive/Shortcuts/_ called **nutrientsync-setup.txt** and a folder called **Nutrient Sync**. Inside of the **Nutrient Sync** folder are two folders named **Food** and **Drink**.
 
